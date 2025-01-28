@@ -55,14 +55,6 @@ A web-based system to create and manage exams efficiently. Perfect for educators
 
 ---
 
-<!-- Contribution Graph -->
-## 📅 My GitHub Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shh-suhiii&theme=react&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
-</div>
-
----
-
 <!-- Connect Section with Social Media Badges -->
 ## 🤝 Let's Connect
 <p align="center">
