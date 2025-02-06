@@ -18,7 +18,7 @@
 ## 👩‍💻 About Me
 - 🔭 I’m currently working on **Airlines Reservation System**  
 - 🌱 I’m currently learning **Networking, Event Handling, and JDBC**  
-- 📫 How to reach me: **suhani@example.com**  
+- 📫 How to reach me: **suhani110@gmail.com**  
 - ⚡ Fun fact: **I love solving complex problems and creating engaging UIs!**
 
 ---
