@@ -17,7 +17,7 @@
 <!-- About Me Section -->
 ## 👩‍💻 About Me
 - 🔭 I’m currently working on **Airlines Reservation System**  
-- 🌱 I’m currently learning **Networking, Event Handling, and JDBC**  
+- 🌱 I’m currently learning **Networking, Event Handling, and backend**  
 - 📫 How to reach me: **suhanirai110@gmail.com**  
 - ⚡ Fun fact: **I love solving complex problems and creating engaging UIs!**
 
