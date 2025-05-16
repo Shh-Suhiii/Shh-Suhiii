@@ -41,7 +41,7 @@
 ### [Airlines Reservation System ✈️](https://github.com/shh-suhiii/airlines-reservation-system)
 A cross-platform app built with Flutter and MySQL for seamless flight bookings. It's the perfect app to manage your travel plans with ease!
 
-### [Online Exam System 📚](https://github.com/shh-suhiii/onlineexamsystem)
+### [Online Exam System 📚](https://github.com/shh-suhiii/onlineexamsys)
 A web-based system to create and manage exams efficiently. Perfect for educators and institutions to streamline their exam process.
 
 ---
